@@ -1,0 +1,129 @@
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHomeClient.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHomeClient.pdb
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/com.oswaldo.hackathomeclient.apk
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/com.oswaldo.hackathomeclient-Signed.apk
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.CustomAdapters.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.Entities.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.SAL.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/UrlImageViewHelper.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/Microsoft.Azure.Mobile.Client.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/Newtonsoft.Json.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/PCLCrypto.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.BCrypt.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/Validation.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.Windows.Core.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.Kernel32.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.CustomAdapters.pdb
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.Entities.pdb
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.SAL.pdb
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/Microsoft.Azure.Mobile.Client.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/Newtonsoft.Json.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/PCLCrypto.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.BCrypt.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/Validation.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.Windows.Core.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.Kernel32.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/HackAtHomeClient.csprojResolveAssemblyReference.cache
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/HackAtHomeClient.csproj.CoreCompileInputs.cache
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/HackAtHomeClient.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/HackAtHomeClient.pdb
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/android/bin/com.oswaldo.hackathomeclient.apk
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout/main.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/drawable/myimage.png
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/values/strings.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/values-en/strings.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/values-pt/strings.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout-land/main.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout/evidencelistlayout.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout/evidenceitem.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout-land/evidenceitem.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout/evidencedetailslayout.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/R.cs.flag
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHomeClient/obj/Debug/uploadflags.txt
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHomeClient.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHomeClient.pdb
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/com.oswaldo.hackathomeclient.apk
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/com.oswaldo.hackathomeclient-Signed.apk
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.CustomAdapters.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.Entities.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.SAL.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/UrlImageViewHelper.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/Microsoft.Azure.Mobile.Client.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/Newtonsoft.Json.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/PCLCrypto.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.BCrypt.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/Validation.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.Windows.Core.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.Kernel32.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.CustomAdapters.pdb
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.Entities.pdb
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.SAL.pdb
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/Microsoft.Azure.Mobile.Client.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/Newtonsoft.Json.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/PCLCrypto.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.BCrypt.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/Validation.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.Windows.Core.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.Kernel32.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/HackAtHomeClient.csprojResolveAssemblyReference.cache
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/HackAtHomeClient.csproj.CoreCompileInputs.cache
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/HackAtHomeClient.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/HackAtHomeClient.pdb
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/android/bin/com.oswaldo.hackathomeclient.apk
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout/main.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/drawable/myimage.png
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/values/strings.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/values-en/strings.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/values-pt/strings.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout-land/main.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout/evidencelistlayout.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout/evidenceitem.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout-land/evidenceitem.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout/evidencedetailslayout.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/R.cs.flag
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHomeClient/obj/Debug/uploadflags.txt
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHomeClient.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHomeClient.pdb
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/com.oswaldo.hackathomeclient.apk
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/com.oswaldo.hackathomeclient-Signed.apk
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.CustomAdapters.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.Entities.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.SAL.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/UrlImageViewHelper.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/Microsoft.Azure.Mobile.Client.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/Newtonsoft.Json.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/PCLCrypto.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.BCrypt.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/Validation.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.Windows.Core.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.Kernel32.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.CustomAdapters.pdb
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.Entities.pdb
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/HackAtHome.SAL.pdb
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/Microsoft.Azure.Mobile.Client.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/Newtonsoft.Json.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/PCLCrypto.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.BCrypt.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/Validation.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.Windows.Core.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/bin/Debug/PInvoke.Kernel32.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/HackAtHomeClient.csprojResolveAssemblyReference.cache
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/HackAtHomeClient.csproj.CoreCompileInputs.cache
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/HackAtHomeClient.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/HackAtHomeClient.pdb
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/android/bin/com.oswaldo.hackathomeclient.apk
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout/main.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/drawable/myimage.png
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/values/strings.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/values-en/strings.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/values-pt/strings.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout-land/main.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout/evidencelistlayout.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout/evidenceitem.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout-land/evidenceitem.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/res/layout/evidencedetailslayout.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/R.cs.flag
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHomeClient/obj/Debug/uploadflags.txt

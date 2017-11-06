@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{60CE2DAA-E0C1-46DD-B3E3-825718472F3F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HackAtHomeClient/MainActivity.cs">
+    <Files>
+      <File FileName="HackAtHomeClient/MainActivity.cs" Line="4" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HackAtHomeClient AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.Holo" />
+  <MultiItemStartupConfigurations />
+</Properties>

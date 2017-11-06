@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{034BA91B-C929-47F6-86D0-653BCEE40922}|Default">
+  <MonoDevelop.Ide.ItemProperties.UrlImageViewHelperSample AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.TA09804KL4" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../HackAtHomeClient/EvidenceDetailActivity.cs">
+    <Files>
+      <File FileName="../../../../HackAtHomeClient/MainActivity.cs" Line="45" Column="21" />
+      <File FileName="../../../../HackAtHomeClient/EvidenceListActivity.cs" Line="97" Column="1" />
+      <File FileName="../../../../HackAtHomeClient/EvidenceDetailActivity.cs" Line="92" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HackAtHomeClient" expanded="True">
+            <Node name="HackAtHome.CustomAdapters" expanded="True" />
+            <Node name="HackAtHomeClient" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="EvidenceDetailActivity.cs" selected="True" />
+            </Node>
+          </Node>
+          <Node name="UrlImageViewHelperSample" expanded="True">
+            <Node name="UrlImageViewHelperSample" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="layout" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

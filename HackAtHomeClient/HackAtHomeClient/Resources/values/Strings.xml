@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Hack@Home</string>
+	<string name="email">Correo</string>
+	<string name="password">Contraseña</string>
+	<string name="validate">Validar</string>
+
+	<string name="EvidenceTitle">Evidencias</string>
+
+	<string name="ErrorTitle">Error</string>
+	<string name="EmptyEmail">Proporciona tu correo electrónico</string>
+	<string name="EmpyPassword">Proporciona tu contraseña</string>
+	<string name="AutenticationError">No hemos podido identificarte, revisa tu correo y password</string>
+	<string name="UnknownError">Hubo un error desconocido</string>
+
+	<string name="Description">Descripción</string>
+</resources>

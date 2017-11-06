@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/__library_projects__/Xamarin.Android.Support.Annotations/library_project_imports/support-annotations.jar;/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/__library_projects__/Xamarin.Android.Support.Compat/library_project_imports/classes.jar;/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/__library_projects__/Xamarin.Android.Support.CustomTabs/library_project_imports/classes.jar</Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/__library_projects__/HackAtHome.Entities/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/__library_projects__/Microsoft.Azure.Mobile.Client/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/__library_projects__/PCLCrypto/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/HackAtHome.Entities/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Microsoft.Azure.Mobile.Client/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/PCLCrypto/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/__library_projects__/HackAtHome.Entities.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/__library_projects__/Microsoft.Azure.Mobile.Client.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/__library_projects__/PCLCrypto.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

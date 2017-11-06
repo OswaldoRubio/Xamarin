@@ -1,0 +1,108 @@
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.SAL.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.SAL.pdb
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.SAL.apk
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.SAL-Signed.apk
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.Entities.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Microsoft.Azure.Mobile.Client.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Newtonsoft.Json.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PCLCrypto.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.BCrypt.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.Kernel32.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.NCrypt.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.Windows.Core.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Validation.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.Entities.pdb
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Newtonsoft.Json.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.Windows.Core.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.Kernel32.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.BCrypt.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.NCrypt.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Validation.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PCLCrypto.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Microsoft.Azure.Mobile.Client.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/obj/Debug/HackAtHome.SAL.csprojResolveAssemblyReference.cache
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/obj/Debug/XbdMerge/Xamarin.Android.Support.Annotations.dll.stamp
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/obj/Debug/XbdMerge/Xamarin.Android.Support.Compat.dll.stamp
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/obj/Debug/XbdMerge/Xamarin.Android.Support.CustomTabs.dll.stamp
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/obj/Debug/HackAtHome.SAL.csproj.CoreCompileInputs.cache
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/obj/Debug/HackAtHome.SAL.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/obj/Debug/HackAtHome.SAL.pdb
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/obj/Debug/android/bin/HackAtHome.SAL.apk
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/obj/Debug/res/values/strings.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/obj/Debug/R.cs.flag
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.SAL/obj/Debug/uploadflags.txt
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.SAL.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.SAL.pdb
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.SAL.apk
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.SAL-Signed.apk
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.Entities.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Microsoft.Azure.Mobile.Client.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Newtonsoft.Json.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PCLCrypto.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.BCrypt.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.Kernel32.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.NCrypt.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.Windows.Core.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Validation.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.Entities.pdb
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Newtonsoft.Json.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.Windows.Core.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.Kernel32.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.BCrypt.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.NCrypt.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Validation.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PCLCrypto.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Microsoft.Azure.Mobile.Client.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/obj/Debug/HackAtHome.SAL.csprojResolveAssemblyReference.cache
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/obj/Debug/XbdMerge/Xamarin.Android.Support.Annotations.dll.stamp
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/obj/Debug/XbdMerge/Xamarin.Android.Support.Compat.dll.stamp
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/obj/Debug/XbdMerge/Xamarin.Android.Support.CustomTabs.dll.stamp
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/obj/Debug/HackAtHome.SAL.csproj.CoreCompileInputs.cache
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/obj/Debug/HackAtHome.SAL.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/obj/Debug/HackAtHome.SAL.pdb
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/obj/Debug/android/bin/HackAtHome.SAL.apk
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/obj/Debug/res/values/strings.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/obj/Debug/R.cs.flag
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.SAL/obj/Debug/uploadflags.txt
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.SAL.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.SAL.pdb
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.SAL.apk
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.SAL-Signed.apk
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.Entities.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Microsoft.Azure.Mobile.Client.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Newtonsoft.Json.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PCLCrypto.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.BCrypt.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.Kernel32.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.NCrypt.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.Windows.Core.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Validation.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/HackAtHome.Entities.pdb
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Newtonsoft.Json.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.Windows.Core.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.Kernel32.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.BCrypt.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PInvoke.NCrypt.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Validation.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/PCLCrypto.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/bin/Debug/Microsoft.Azure.Mobile.Client.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/HackAtHome.SAL.csprojResolveAssemblyReference.cache
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/XbdMerge/Xamarin.Android.Support.Annotations.dll.stamp
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/XbdMerge/Xamarin.Android.Support.Compat.dll.stamp
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/XbdMerge/Xamarin.Android.Support.CustomTabs.dll.stamp
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/HackAtHome.SAL.csproj.CoreCompileInputs.cache
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/HackAtHome.SAL.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/HackAtHome.SAL.pdb
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/android/bin/HackAtHome.SAL.apk
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/res/values/strings.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/R.cs.flag
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.SAL/obj/Debug/uploadflags.txt

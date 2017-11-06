@@ -1,0 +1,42 @@
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.CustomAdapters.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.CustomAdapters.pdb
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.CustomAdapters.apk
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.CustomAdapters-Signed.apk
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.Entities.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.Entities.pdb
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/HackAtHome.CustomAdapters.csprojResolveAssemblyReference.cache
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/HackAtHome.CustomAdapters.csproj.CoreCompileInputs.cache
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/HackAtHome.CustomAdapters.dll
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/HackAtHome.CustomAdapters.pdb
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/android/bin/HackAtHome.CustomAdapters.apk
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/res/values/strings.xml
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/R.cs.flag
+/Users/oswaldo/Projects/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/uploadflags.txt
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.CustomAdapters.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.CustomAdapters.pdb
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.CustomAdapters.apk
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.CustomAdapters-Signed.apk
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.Entities.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.Entities.pdb
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/HackAtHome.CustomAdapters.csprojResolveAssemblyReference.cache
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/HackAtHome.CustomAdapters.csproj.CoreCompileInputs.cache
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/HackAtHome.CustomAdapters.dll
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/HackAtHome.CustomAdapters.pdb
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/android/bin/HackAtHome.CustomAdapters.apk
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/res/values/strings.xml
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/R.cs.flag
+/Users/oswaldo/Projects/Xamarin Android/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/uploadflags.txt
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.CustomAdapters.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.CustomAdapters.pdb
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.CustomAdapters.apk
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.CustomAdapters-Signed.apk
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.Entities.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/bin/Debug/HackAtHome.Entities.pdb
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/HackAtHome.CustomAdapters.csprojResolveAssemblyReference.cache
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/HackAtHome.CustomAdapters.csproj.CoreCompileInputs.cache
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/HackAtHome.CustomAdapters.dll
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/HackAtHome.CustomAdapters.pdb
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/android/bin/HackAtHome.CustomAdapters.apk
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/res/values/strings.xml
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/R.cs.flag
+/Users/oswaldo/Desktop/Xamarin/HackAtHomeClient/HackAtHome.CustomAdapters/obj/Debug/uploadflags.txt
